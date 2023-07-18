@@ -20,7 +20,7 @@ Usage:
 
 5. The script will prompt you to enter the Instagram profile URL. Make sure to provide the complete URL starting with 'https://www.instagram.com/'.
 
-7. The script will download all the posts from the specified Instagram profile and create a zip file in the 'downloads' folder with the username as the filename.
+6. The script will download all the posts from the specified Instagram profile and create a zip file in the 'downloads' folder with the username as the filename.
 
 Dependencies:
 ---------------
